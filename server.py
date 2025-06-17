@@ -6,7 +6,7 @@ load_dotenv(".env")
 
 # Create an MCP server
 mcp = FastMCP(
-    name="Calculator",
+    name="Figma MCP Server",
     host="0.0.0.0",  # only used for SSE transport (localhost)
     port=8050,  # only used for SSE transport (set this to any port)
 )
