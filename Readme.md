@@ -1,5 +1,10 @@
 # SimplePy MCP Figma Integration
 
+
+## Demo Videos
+
+You can find demo videos in the [Demo Videos](./demo_videos/) folder.
+
 ## Getting Started
 
 1. **Install dependencies**
